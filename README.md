@@ -21,8 +21,10 @@ This project is a showcase of leveraging AWS AI services, specifically AWS Rekog
 
 - AWS S3: AWS S3 integration was implemented to efficiently handle file storage, including uploaded images.
 
-  ` Acknowledgment ` 
-       We extend our heartfelt thanks to Gaza Sky Geeks for creating this incredible opportunity and for their unwavering support throughout this journey. This computer vision hackathon has been a true test of 
+  ` Acknowledgment ` \n
+  
+       We extend our heartfelt thanks to Gaza Sky Geeks for creating this incredible opportunity and for their unwavering support throughout this journey. This 
+       computer vision hackathon has been a true test of 
        our skills in NodeJS, AWS services, API integration, database management, cloud deployment, and UI design. 
 
 
