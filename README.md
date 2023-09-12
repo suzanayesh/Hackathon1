@@ -81,13 +81,3 @@ We're diving right in! 🚀 We'll be developing our application using a lean app
 - Implement file upload functionalities using S3.
 - Update your history table to store the uploaded file S3 link.
 
----
-
-# Rules:
-
-Not today ! 
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb2f715c-3f98-4235-83d1-a8b274248612/07172bee-a438-4fd6-bd94-2da170233e38/Untitled.png)
-
-- You can request a hint after 2 hours into the Hackathon; however, depending on the hint provided, there may be a reduction in your score.
-- Assisting other teams or sharing code is not allowed.
