@@ -21,15 +21,15 @@ Our final objective is to launch an ExpressJS application that offers its users 
 
 - Identification of all object, scenes, and actions within an image.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb2f715c-3f98-4235-83d1-a8b274248612/534ab0ff-8a9d-4e8d-b57b-72e81081e80a/Untitled.png)
+![image](https://github.com/suzanayesh/Hackathon1/assets/100838193/e4e5642e-65e1-44e5-b230-92ce1e890f9f)
 
 - Recognition of celebrity faces, accompanied by their names and a confidence score 🌟.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb2f715c-3f98-4235-83d1-a8b274248612/f376b756-fc6a-477e-b34c-5e98ccd38411/Untitled.png)
+![image](https://github.com/suzanayesh/Hackathon1/assets/100838193/e0377e35-4623-46f2-a114-7e8f487cb1bd)
 
 - Extraction of text from images 📜.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb2f715c-3f98-4235-83d1-a8b274248612/94b8e618-4ede-4605-8781-d08e6d4082bd/Untitled.png)
+![image](https://github.com/suzanayesh/Hackathon1/assets/100838193/1c5c9de2-62d4-4f41-9f4e-a4f9ea2c69cf)
 
 Results should be returned in JSON format, and additionally stored in a database. The application should also feature an endpoint to retrieve a history of past search outcomes.
 
